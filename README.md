@@ -2,7 +2,7 @@
 - 👀 I’m interested in .NET Plattform
 - 🌱 I’m currently learning TypeScript and Docker
 - 😃 My hobby is playing 🎸 and 🎹🎹🎹🎹🎹🎹 
-- 📫 How to reach me email: wellington.bezerra.santos@outlook.com
+- 📫 How to reach me: wellington.bezerra.santos@outlook.com
 
 <!---
 dev-wsantos/dev-wsantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
