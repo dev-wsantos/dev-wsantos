@@ -1,8 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently working on personal projects<br>👯 II'm looking to collaborate on open source .NET projects.<br>🤝 I’m looking for help with WebAPI.<br>🌱I 'm currently learning TypeScript and the .NET platform.<br>
+# 💫 Sobre min:
+🔭 Trabalhando em projetos pessoais<br>👯 Me interesso em colaborar em projetos OpenSource .NET Core<br>🤝 Me interesso por ASP.NET WebAPIs<br>🌱Atualmente, tenho focado em aprender TypeScript e me especializar em .NET <br>
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wellington-santos7) 
 
 # 💻 Tech Stack:
