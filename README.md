@@ -19,7 +19,7 @@ Sou um desenvolvedor .NET Pleno apaixonado por criar soluções inovadoras e efi
 Estou sempre aberto a colaborações e contribuições. Se você tiver um projeto interessante ou se precisar de ajuda, sinta-se à vontade para entrar em contato!
 
 ### Contato
-- **LinkedIn:** [Wellington Santos](www.linkedin.com/in/wellington-santos7)
+- **LinkedIn:** www.linkedin.com/in/wellington-santos7
 - **E-mail:** wellington.bezerra.santos@outlook.com
 
 ### Estatísticas do GitHub
