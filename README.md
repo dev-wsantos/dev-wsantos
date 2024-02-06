@@ -1,32 +1,34 @@
+# Oi, eu sou o Wellington Santos
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wellington-santos7) 
+## Bem-vindo ao meu GitHub! 👋
 
-# 💻 Tech Skills:
+### Sobre Mim
+Sou um desenvolvedor .NET Pleno apaixonado por criar soluções inovadoras e eficientes. Com experiência sólida em desenvolvimento web, estou sempre buscando aprimorar minhas habilidades e contribuir para projetos desafiadores.
 
-## Front-end
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-
-
-## Back-end
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🚀 Tecnologias
+- **Linguagens:** C#, Java
+- **Frontend:** HTML, CSS, SCSS, JavaScript
+- **Banco de Dados:** SQL Server, MySQL, Oracle
+- **Ferramentas:** Visual Studio, Git, Docker
+- **Frameworks Front-end:** Bootstrap, Tailwind CSS
+- **Frameworks Back-end:** ASP.NET, ASP.NET Core
+- **Metodologias:** Agile, Scrum
 
 
-## Databases
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+### Contribuições
+Estou sempre aberto a colaborações e contribuições. Se você tiver um projeto interessante ou se precisar de ajuda, sinta-se à vontade para entrar em contato!
 
+### Contato
+- **LinkedIn:** [Wellington Santos](www.linkedin.com/in/wellington-santos7)
+- **E-mail:** wellington.bezerra.santos@outlook.com
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dev-wsantos&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dev-wsantos&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-wsantos&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dev-wsantos&show_icons=true&count_private=true&hide=contribs)
 
----
-[![](https://visitcount.itsvg.in/api?id=dev-wsantos&icon=0&color=3)](https://visitcount.itsvg.in)
+### Linguagens Mais Utilizadas
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-wsantos&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Vamos Conectar!
+Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre em busca de novas oportunidades e desafios emocionantes no mundo do desenvolvimento .NET.
+
+**Obrigado por visitar meu perfil! 😊**
