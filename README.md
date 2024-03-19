@@ -3,7 +3,7 @@
 ## Bem-vindo ao meu GitHub! 👋
 
 ### Sobre Mim
-Sou um desenvolvedor .NET Pleno apaixonado por criar soluções inovadoras e eficientes. Com experiência sólida em desenvolvimento web, estou sempre buscando aprimorar minhas habilidades e contribuir para projetos desafiadores.
+Sou um desenvolvedor .NET apaixonado por criar soluções inovadoras e eficientes. Com experiência sólida em desenvolvimento web, estou sempre buscando aprimorar minhas habilidades e contribuir para projetos desafiadores.
 
 ### 🚀 Tecnologias
 - **Linguagens:** C#, Java
