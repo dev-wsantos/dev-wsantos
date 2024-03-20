@@ -8,7 +8,7 @@ Sou um desenvolvedor .NET apaixonado por criar soluções inovadoras e eficiente
 ### 🚀 Tecnologias
 - **Linguagens:** C#, Java
 - **Frontend:** HTML, CSS, SCSS, JavaScript
-- **Banco de Dados:** SQL Server, MySQL, Oracle
+- **Banco de Dados:** SQL Server
 - **Ferramentas:** Visual Studio, Git, Docker
 - **Frameworks Front-end:** Bootstrap
 - **Frameworks Back-end:** ASP.NET, ASP.NET Core
