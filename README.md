@@ -10,7 +10,7 @@ Sou um desenvolvedor .NET apaixonado por criar soluções inovadoras e eficiente
 - **Frontend:** HTML, CSS, SCSS, JavaScript
 - **Banco de Dados:** SQL Server, MySQL, Oracle
 - **Ferramentas:** Visual Studio, Git, Docker
-- **Frameworks Front-end:** Bootstrap, Tailwind CSS
+- **Frameworks Front-end:** Bootstrap
 - **Frameworks Back-end:** ASP.NET, ASP.NET Core
 - **Metodologias:** Agile, Scrum
 
