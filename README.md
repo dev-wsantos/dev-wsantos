@@ -19,7 +19,7 @@ Sou um desenvolvedor .NET apaixonado por criar soluções inovadoras e eficiente
 Estou sempre aberto a colaborações e contribuições. Se você tiver um projeto interessante ou se precisar de ajuda, sinta-se à vontade para entrar em contato!
 
 ### Contato
-- **LinkedIn:** www.linkedin.com/in/wellington-santos7
+- **LinkedIn:** www.linkedin.com/in/wsantos9
 - **E-mail:** wellington.bezerra.santos@outlook.com
 
 ### Estatísticas do GitHub
