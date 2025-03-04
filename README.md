@@ -3,7 +3,7 @@
 ## Bem-vindo ao meu GitHub! 👋
 
 ### Sobre Mim
-Sou um desenvolvedor .NET com experiência sólida em desenvolvimento web.
+Sou um desenvolvedor .NET com experiência em desenvolvimento web.
 
 ### 🚀 Tecnologias
 - **Linguagens:** C#, Java
